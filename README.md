@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NICK-JEM
 - 👀 I’m interested in climbing, videogames and a certain MMORPG
-- 🌱 I’m currently learning the full stack path in a coding platform
 - 💞️ I’m not looking to collab just yet, more learnings are required
 - 📫 How to reach me? i will add to this later :]
 
